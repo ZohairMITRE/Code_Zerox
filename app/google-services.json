@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251469577864",
+    "project_id": "db-zerox",
+    "storage_bucket": "db-zerox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251469577864:android:74500e20ed7c3d7b2fa93d",
+        "android_client_info": {
+          "package_name": "com.example.codezerox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251469577864-fe589prdvl8co8eckgidmkcsmq9bvtpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0unUEtZ1tg7Y4_rGWQiaru2CyLleoyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251469577864-fe589prdvl8co8eckgidmkcsmq9bvtpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
